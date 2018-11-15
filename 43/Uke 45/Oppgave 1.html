@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <main>
+
+
+        <input type="checkbox" id="kaffeCheck">
+        <label for="kaffeCheck">Kaffe</label>
+        <br>
+        <input type="checkbox" id="TeCheck">
+        <label for="TeCheck">Te</label>
+        <br>
+        <input type="checkbox" id="SmultringCheck">
+        <label for="SmultringCheck">Smultring</label>
+        <br>
+        <input type="checkbox" id="kjeksCheck">
+        <label for="kjeksCheck">Kjeks</label>
+
+
+    </main>
+
+    <script>
+
+        const kaffeCheck = document.getElementById("kaffeCheck");
+        const TeCheck = document.getElementById("TeCheck");
+        const SmultringCheck = document.getElementById("SmultringCheck");
+        const kjeksCheck = document.getElementById("kjeksCheck");
+        const btnSubmit = document.getElementById("btnSubmit");
+        const ferdigBestilt = document.getElementById("ferdigBestilt");
+
+        btnSubmit.onclick = function () {
+            Let tekst = "Du har bestilt ";
+
+            if(kaffeCheck.checked){
+                tekst += "kaffe";
+            }
+
+            if(TeCheck.checked){
+                tekst += "Te";
+            }
+
+            if(SmultringCheck.checked){
+                tekst += "Smultring";
+            }
+
+            if(kjeksCheck.checked){
+                tekst += "Kjeks";
+            }
+
+    </script>
+
+
+</body>
+</html>
