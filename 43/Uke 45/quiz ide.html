@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+
+</head>
+
+
+<body>
+<h1>QUIZ!</h1>
+
+
+<form id = "quiz" name = "quiz">
+
+
+<p class = "questions">Hva heter verdens lengste elv?</p>
+<input id = "textbox" type = "text" name = "question1">
+
+<p class = "questions">Hva er hovedstaden i Norge?</p>
+<input type = "radio" id = "mc" name = "question2" value = "Oslo"> Oslo<br>
+<input type = "radio" id = "mc" name = "question2" value = "Kristiania"> Kristiania<br>
+
+<p class = "questions">Hva er hovedstaden i Sverige?</p>
+
+<input type = "radio" id = "mc" name = "question3" value = "Stockholm"> Stockholm<br>
+<input type = "radio" id = "mc" name = "question3" value = "Stokkesnus"> Stokkesnus<br>
+
+
+<input id = "button" type = "button" value = "Jeg er ferdig!" onclick = "check();">
+
+
+</form>
+
+<div id = "after_submit">
+<p id = "number_correct"></p>
+<p id = "message"></p>
+<img id = "picture">
+</div>
+</html>
+
+</body>
