@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbf6face-b91a-4004-b4b6-6869770e034e" name="Default Changelist" comment="Min første nettside">
-      <change afterPath="$PROJECT_DIR$/43/Uke 45/quiz ide.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/43/Uke 45/stil.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43/Prosjekt/Prosjekt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43/Prosjekt/Quiz_kontroller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43/Prosjekt/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43/Prosjekt/java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/43/Prosjekt/spørsmål.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/43/Uke 45/stil.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/43/Uke 45/quiz ide.html" beforeDir="false" afterPath="$PROJECT_DIR$/43/Uke 45/quiz ide.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,41 +30,44 @@
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="1" />
-          <entry key="html" value="14" />
+          <entry key="css" value="2" />
+          <entry key="html" value="15" />
           <entry key="jpg" value="1" />
-          <entry key="js" value="1" />
+          <entry key="js" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
-          <entry key="HTML" value="14" />
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="15" />
           <entry key="Image" value="1" />
-          <entry key="JavaScript" value="1" />
+          <entry key="JavaScript" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="3536" />
-          <entry key="js" value="36" />
+          <entry key="css" value="614" />
+          <entry key="html" value="3869" />
+          <entry key="js" value="256" />
           <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="3536" />
-          <entry key="JavaScript" value="36" />
+          <entry key="CSS" value="614" />
+          <entry key="HTML" value="3869" />
+          <entry key="JavaScript" value="256" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
@@ -69,19 +76,42 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/43/Uke 45/quiz ide.html">
+        <entry file="file://$PROJECT_DIR$/43/Prosjekt/Prosjekt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-77">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="240">
+              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+              <folding>
+                <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#hr#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/43/Uke 45/stil.js">
+        <entry file="file://$PROJECT_DIR$/43/Prosjekt/java.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/43/Prosjekt/spørsmål.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="105">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/43/Prosjekt/Quiz_kontroller.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/43/Prosjekt/Style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -89,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/43/Uke 45/stil.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
+            <state relative-caret-position="1095">
               <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
             </state>
           </provider>
@@ -101,8 +131,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -128,6 +158,11 @@
         <option value="$PROJECT_DIR$/43/Uke 45/stil.css" />
         <option value="$PROJECT_DIR$/43/Uke 45/stil.js" />
         <option value="$PROJECT_DIR$/43/Uke 45/quiz ide.html" />
+        <option value="$PROJECT_DIR$/43/Prosjekt/Prosjekt.html" />
+        <option value="$PROJECT_DIR$/43/Prosjekt/Style.css" />
+        <option value="$PROJECT_DIR$/43/Prosjekt/java.js" />
+        <option value="$PROJECT_DIR$/43/Prosjekt/Quiz_kontroller.js" />
+        <option value="$PROJECT_DIR$/43/Prosjekt/spørsmål.js" />
       </list>
     </option>
   </component>
@@ -168,7 +203,7 @@
               <item name="petter12345.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="petter12345.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="43" type="462c0819:PsiDirectoryNode" />
-              <item name="Uke 45" type="462c0819:PsiDirectoryNode" />
+              <item name="Prosjekt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,6 +255,7 @@
       <workItem from="1541667699132" duration="2333000" />
       <workItem from="1542282114163" duration="2111000" />
       <workItem from="1542873555937" duration="2818000" />
+      <workItem from="1543477914590" duration="5065000" />
     </task>
     <task id="LOCAL-00001" summary="Min første nettside">
       <created>1535010741866</created>
@@ -232,10 +268,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21107000" />
+    <option name="totallyTimeSpent" value="26172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="34" width="1400" height="774" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -355,24 +392,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/43/Uke 45/stil.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/43/Uke 45/stil.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="61">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/43/Prosjekt/Quiz_kontroller.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/43/Uke 45/quiz ide.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-77">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="630">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/43/Uke 45/stil.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="1" selection-start-line="73" selection-start-column="1" selection-end-line="73" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/43/Prosjekt/spørsmål.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/43/Prosjekt/java.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/43/Prosjekt/Style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/43/Prosjekt/Prosjekt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#hr#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#hr#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
